@@ -114,7 +114,7 @@ setInterval(() => {
 document.addEventListener('DOMContentLoaded', () => {
     setTimeout(() => {
         if (alertTrigger) {
-            // alert('Que tal olhar atrás do cartão?')
+            alert('Que tal olhar atrás do cartão?')
         }
     }, 15000);
     changeGifs();
